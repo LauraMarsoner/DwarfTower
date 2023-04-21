@@ -39,6 +39,7 @@
  <div>
  <img align="right" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/230765192-b39e46c4-72d7-4557-a428-2d2454f0a9c4.gif">
  <br>
+  <br>
  <h1>Responsibilities</h1>
  <li>Level Design</li>
  <li>Wavemanager implementation</li>
@@ -49,7 +50,6 @@
  <br>
  </div>
 </p>
-<br> 
 <p>
  <div>
  <img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/104200268/230765319-bf96018e-9f80-4d79-82e5-7787b9bc4b29.gif">
