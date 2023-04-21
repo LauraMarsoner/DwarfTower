@@ -20,7 +20,7 @@
 <p>
 
  <img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/104200268/230764988-25ede94c-ac1d-4e1a-b506-74f9dc4e0c7a.gif">
- <br>
+
  <h1>About</h1>
  <li><b>Role:</b>&emsp;&emsp;&emsp;&emsp;Programmer, Level Designer</li>
  <li><b>Duration:</b>&emsp;&emsp;3 Weeks</li>
@@ -32,6 +32,7 @@
  <li><b>Build:</b>&emsp;&emsp;&emsp;&nbsp;&nbsp;<a href="https://lauramarsoner.itch.io/dwarftower">Itch.io</a></li>
 </p>
 
+<br>
 
 <p>
  <div>
