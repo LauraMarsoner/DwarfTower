@@ -32,7 +32,6 @@
  <li><b>Build:</b>&emsp;&emsp;&emsp;&nbsp;&nbsp;<a href="https://lauramarsoner.itch.io/dwarftower">Itch.io</a></li>
 </p>
 
-<br>
 
 <p>
  <div>
