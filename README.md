@@ -19,7 +19,8 @@
 
 <p>
 
- <img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/104200268/230764988-25ede94c-ac1d-4e1a-b506-74f9dc4e0c7a.gif">
+
+ <img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/42000334/233609029-35dd8ace-4f90-446a-a307-dabd44c131e8.gif">
 <br>
  <h1>About</h1>
  <li><b>Role:</b>&emsp;&emsp;&emsp;&emsp;Programmer, Level Designer</li>
